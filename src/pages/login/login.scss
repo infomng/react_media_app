@@ -1,0 +1,28 @@
+.login{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: darkgray;
+    .card{
+        display: flex;
+        width: 50%;
+        border-radius: 10px;
+        overflow: hidden;
+        .left{
+            float: 1;
+            h1{}
+            p{}
+            span{}
+            button{}
+
+        }
+        .right{
+            flex: 1;
+            h1{}
+            form{}
+            input{}
+            button{}
+        }
+    }
+}
