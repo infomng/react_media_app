@@ -1,3 +1,4 @@
+
 import "./register.scss";
 import { Link } from "react-router-dom";
 
@@ -13,7 +14,7 @@ const Register = () => {
             consequatur.
           </p>
           <span>Do you have an account?</span>
-          <Link to="/login">
+          <Link to="login">
             <button>Login</button>
           </Link>
         </div>
@@ -33,3 +34,4 @@ const Register = () => {
 };
 
 export default Register;
+ 
