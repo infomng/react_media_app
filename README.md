@@ -1,4 +1,4 @@
-# git clone --single-branch -b <branchName> <url> .
+ git clone --single-branch -b <branchName> <url> .
 
 # Getting Started with Create React App
 
